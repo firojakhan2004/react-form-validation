@@ -1,1 +1,8 @@
-This repository contains a React application that demonstrates form validation for required fields without using third-party libraries. The form includes validation for fields such as First Name, Last Name, Username, Email, Password, Phone Number, Country, City, PAN Number, and Aadhar Number. Error messages are displayed for invalid input, and submission is disabled until all fields are filled correctly. Upon successful submission, the user is redirected to a new route where all filled details are displayed.
+# Simple React Signup Form With Validation
+
+## Steps for excecution :
+
+ 1. Clone the repo : git clone https://github.com/abhishek305/simple-react-signup-form-with-validation.git
+ 2. Open the cloned repo in a code editor 
+ 3. Fire up the terminal in the root directory and provide the command npm install
+ 4. Then give the command npm start
