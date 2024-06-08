@@ -1,1 +1,1 @@
-# react-form-validation
+This repository contains a React application that demonstrates form validation for required fields without using third-party libraries. The form includes validation for fields such as First Name, Last Name, Username, Email, Password, Phone Number, Country, City, PAN Number, and Aadhar Number. Error messages are displayed for invalid input, and submission is disabled until all fields are filled correctly. Upon successful submission, the user is redirected to a new route where all filled details are displayed.
